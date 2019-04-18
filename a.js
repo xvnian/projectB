@@ -1,1 +1,1 @@
-a.js
+console.log('master')
